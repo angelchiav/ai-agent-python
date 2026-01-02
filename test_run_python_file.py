@@ -25,6 +25,5 @@ def main() -> None:
     print(run_python_file("calculator", "lorem.txt"))
     print()
 
-
 if __name__ == "__main__":
     main()
