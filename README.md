@@ -20,7 +20,7 @@ A powerful AI-powered code assistant built with Google's Gemini API that can aut
 
 1. Clone the repository:
 ```bash
-git clone <https://github.com/angelchiav/ai-agent-python>
+git clone https://github.com/angelchiav/ai-agent-python
 cd ai-agent-python
 ```
 
